@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+<path d="M54 186A46 7 0 1 0 146 186A46 7 0 1 0 54 186Z" fill="#2B2A4C" fill-opacity="0.1" />
+<path d="M70 100C44 92 22 108 26 138C44 142 64 130 74 114Z" fill="#5FB3D3" fill-opacity="1" />
+<path d="M44 112C40 122 40 130 44 136" fill="none" stroke="#8AD0EA" stroke-opacity="1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M130 100C156 92 178 108 174 138C156 142 136 130 126 114Z" fill="#5FB3D3" fill-opacity="1" />
+<path d="M156 112C160 122 160 130 156 136" fill="none" stroke="#8AD0EA" stroke-opacity="1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M73 174A11 5.5 0 1 0 95 174A11 5.5 0 1 0 73 174Z" fill="#FFB84D" fill-opacity="1" />
+<path d="M105 174A11 5.5 0 1 0 127 174A11 5.5 0 1 0 105 174Z" fill="#FFB84D" fill-opacity="1" />
+<path d="M36 110A64 60 0 1 0 164 110A64 60 0 1 0 36 110Z" fill="#7EC8E3" fill-opacity="1" />
+<path d="M58 130A42 33 0 1 0 142 130A42 33 0 1 0 58 130Z" fill="#FFFFFF" fill-opacity="1" />
+<path d="M92 54C86 40 92 30 102 28C100 38 104 46 100 54Z" fill="#5FB3D3" fill-opacity="1" />
+<path d="M104 54C106 44 114 38 122 40C118 46 116 52 110 56Z" fill="#5FB3D3" fill-opacity="1" />
+<path d="M54 138C76 160 124 160 146 138L150 152C124 176 76 176 50 152Z" fill="#FF7A8A" fill-opacity="1" />
+<path d="M118 160L142 168L136 190L114 182Z" fill="#FF7A8A" fill-opacity="1" />
+<path d="M120 168L137 174" fill="none" stroke="#FF9FAB" stroke-opacity="1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M91 106L109 106L100 122Z" fill="#FFB84D" fill-opacity="1" stroke="#FFB84D" stroke-opacity="1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M67.5 98A8.5 8.5 0 1 0 84.5 98A8.5 8.5 0 1 0 67.5 98Z" fill="#2B2A4C" fill-opacity="1" />
+<path d="M70.22 95.11A3.4 3.4 0 1 0 77.02 95.11A3.4 3.4 0 1 0 70.22 95.11Z" fill="#FFFFFF" fill-opacity="1" />
+<path d="M77.36 100.72A1.53 1.53 0 1 0 80.42 100.72A1.53 1.53 0 1 0 77.36 100.72Z" fill="#FFFFFF" fill-opacity="1" />
+<path d="M115.5 98A8.5 8.5 0 1 0 132.5 98A8.5 8.5 0 1 0 115.5 98Z" fill="#2B2A4C" fill-opacity="1" />
+<path d="M118.22 95.11A3.4 3.4 0 1 0 125.02 95.11A3.4 3.4 0 1 0 118.22 95.11Z" fill="#FFFFFF" fill-opacity="1" />
+<path d="M125.36 100.72A1.53 1.53 0 1 0 128.42 100.72A1.53 1.53 0 1 0 125.36 100.72Z" fill="#FFFFFF" fill-opacity="1" />
+<path d="M60.22 111.17A8.07 5.27 0 1 0 76.38 111.17A8.07 5.27 0 1 0 60.22 111.17Z" fill="#FF9EB5" fill-opacity="0.75" />
+<path d="M123.62 111.17A8.07 5.27 0 1 0 139.77 111.17A8.07 5.27 0 1 0 123.62 111.17Z" fill="#FF9EB5" fill-opacity="0.75" />
+</svg>

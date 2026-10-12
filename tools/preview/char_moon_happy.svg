@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+<path d="M6 106A94 94 0 1 0 194 106A94 94 0 1 0 6 106Z" fill="#FFF9D6" fill-opacity="0.45" />
+<path d="M20 106A80 80 0 1 0 180 106A80 80 0 1 0 20 106Z" fill="#FFF9D6" fill-opacity="0.55" />
+<path d="M34 108A66 66 0 1 0 166 108A66 66 0 1 0 34 108Z" fill="#FFF3B0" fill-opacity="1" />
+<path d="M140 82A10 10 0 1 0 160 82A10 10 0 1 0 140 82Z" fill="#F2E08A" fill-opacity="1" />
+<path d="M46 146A12 12 0 1 0 70 146A12 12 0 1 0 46 146Z" fill="#F2E08A" fill-opacity="1" />
+<path d="M139 148A7 7 0 1 0 153 148A7 7 0 1 0 139 148Z" fill="#F2E08A" fill-opacity="1" />
+<path d="M47 96A5 5 0 1 0 57 96A5 5 0 1 0 47 96Z" fill="#F2E08A" fill-opacity="1" />
+<path d="M50 72C58 28 112 14 156 40C170 50 172 66 164 74C142 56 100 54 50 72Z" fill="#8E9AF7" fill-opacity="1" />
+<path d="M50 72C100 54 142 56 164 74L160 84C138 68 100 68 52 84Z" fill="#FFFFFF" fill-opacity="1" />
+<path d="M92 34C110 30 130 34 146 42" fill="none" stroke="#AAB4FF" stroke-opacity="1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160 35L162.82 42.12L170.46 42.6L164.57 47.48L166.47 54.9L160 50.8L153.53 54.9L155.43 47.48L149.54 42.6L157.18 42.12Z" fill="#FFE066" fill-opacity="1" stroke="#FFE066" stroke-opacity="1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M69.92 117.83Q78 100.83 86.08 117.83" fill="none" stroke="#2B2A4C" stroke-opacity="1" stroke-width="4.42" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M113.92 117.83Q122 100.83 130.07 117.83" fill="none" stroke="#2B2A4C" stroke-opacity="1" stroke-width="4.42" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M62.22 127.17A8.07 5.27 0 1 0 78.38 127.17A8.07 5.27 0 1 0 62.22 127.17Z" fill="#FF9EB5" fill-opacity="0.75" />
+<path d="M121.62 127.17A8.07 5.27 0 1 0 137.77 127.17A8.07 5.27 0 1 0 121.62 127.17Z" fill="#FF9EB5" fill-opacity="0.75" />
+<path d="M90.55 132Q100 149.96 109.45 132Z" fill="#7A2E4D" fill-opacity="1" />
+<path d="M95.28 140.98A4.73 2.65 0 1 0 104.72 140.98A4.73 2.65 0 1 0 95.28 140.98Z" fill="#FF8FA8" fill-opacity="1" />
+</svg>
