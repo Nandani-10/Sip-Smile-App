@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sky_bg">#F5FAFF</color>
+    <color name="sky_bg_night">#121B26</color>
+    <color name="ic_launcher_background">#BFE6FF</color>
+</resources>
