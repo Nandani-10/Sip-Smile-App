@@ -25,7 +25,7 @@ jobs:
           distribution: temurin
           java-version: 17
 
-      - uses: android-actions/setup-android@v3
+      # Android SDK is already preinstalled on ubuntu-latest, so no setup step is needed.
 
       - uses: gradle/actions/setup-gradle@v4
         with:
